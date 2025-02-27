@@ -108,8 +108,7 @@ body {
     height: 100px;
     background-repeat: no-repeat;
     background-position: center;
-    margin: -50px 0 0 -50px
-}
+    margin: 0;
 
 .preloader {
     height: 40px;
